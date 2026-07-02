@@ -1,0 +1,8 @@
+{
+  "appId": "com.mehak.phototoword",
+  "appName": "Photo to Word",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
