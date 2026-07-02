@@ -1,0 +1,16 @@
+{
+  "name": "photo-to-word-android",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Photo to Word Android app built from a webapp using Capacitor and GitHub Actions.",
+  "scripts": {
+    "sync": "cap sync android",
+    "build:android": "cd android && ./gradlew assembleDebug"
+  },
+  "dependencies": {
+    "@capacitor/android": "latest",
+    "@capacitor/cli": "latest",
+    "@capacitor/core": "latest"
+  },
+  "devDependencies": {}
+}
